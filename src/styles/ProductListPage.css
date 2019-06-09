@@ -1,0 +1,21 @@
+.products {
+    margin-bottom: 20px;
+}
+
+.products ul {
+    list-style: square;
+    padding-left: 30px;
+}
+
+.products li {
+    margin: 20px 0;
+}
+
+.products a {
+    text-decoration: none;
+    color: #333;
+}
+
+.products a:hover {
+    text-decoration: line-through;
+}
