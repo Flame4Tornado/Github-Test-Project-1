@@ -21,6 +21,7 @@ main {
 
 aside {
     min-width: 240px;
+    background-color: red;
 }
 
 section.blog {
